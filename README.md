@@ -1,6 +1,6 @@
 # AskMyDoc
 
-- An intelligent Document Q&A Assistant built with LangChain, Ollama (Llama 3.2), and Nomic Embeddings. Upload documents and ask questions to get accurate, contextual answers based on the document content.
+- An intelligent Document QnA Assistant built with LangChain, Ollama (Llama 3.2), and Nomic Embeddings. Upload documents and ask questions to get accurate, contextual answers based on the document content.
 
 ## Features
 
